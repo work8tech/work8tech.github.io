@@ -1,16 +1,18 @@
-## Hi there 👋
+# Work8Tech's Free DSA Help 🚀
 
-<!--
-**work8tech/work8tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to **Work8Tech's DSA site**, a personal hobby project dedicated to helping students and programmers master Data Structures and Algorithms for free!  
 
-Here are some ideas to get you started:
+## 🔹 About This Project  
+This website is a passion project by **Work8Tech**, aiming to provide easy-to-understand DSA concepts, practice problems, and coding solutions. Whether you're a beginner or looking to sharpen your skills, this platform is here to help.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 What You'll Find Here  
+Whatever I post here.
+## Get Started  
+If you find any issues, contact me at ccalcuttauniversity@gmail.com
+## 📌 Why This Exists  
+Because I felt like making it.
+  
+
+---
+
+💡 *This is a personal project by Work8Tech – built for learning, shared with passion!*  
